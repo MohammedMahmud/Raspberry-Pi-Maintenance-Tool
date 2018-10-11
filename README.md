@@ -10,7 +10,7 @@ git clone https://github.com/MohammedMahmud/RaspberryPi-Maintenance-Terminal-Too
 ```
 
 ### Installing
-**** Make sure you already have Python 3.7.0 or above **** 
+##### Make sure you already have Python 3.7.0 or above  
 (cd == change directory)
 cd to your directory.
 
@@ -23,7 +23,7 @@ For HELP Type:
 ```
 python3 PI_Maintenance.py --help
 ```
-![RaspberryPi-Maintenance-Terminal-Tool/Screenshot - Help.png](ScreenshotHelp.png)
+![RaspberryPi-Maintenance-Terminal-Tool/ScreenshotHelp.png](ScreenshotHelp.png)
 ## Built With -- Module
 
 * [Python](https://www.python.org) - A high-level programming language
