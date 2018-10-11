@@ -6,7 +6,7 @@ This script basically updates & upgrades the existing packages in your Raspberry
 Clone the directory to your PI desktop or any folder.
 to clone this directory copy & paste in this your Terminal
 ```
-git clone
+git clone https://github.com/MohammedMahmud/RaspberryPi-Maintenance-Terminal-Tool.git
 ```
 
 ### Installing
@@ -23,7 +23,7 @@ For HELP Type:
 ```
 python3 PI_Maintenance.py --help
 ```
-![Screenshot - Help](RaspberryPi-Maintenance-Terminal-Tool/Screenshot - Help.png)
+![Screenshot - Help](Screenshot - Help.png)
 
 ## Built With -- Module
 
