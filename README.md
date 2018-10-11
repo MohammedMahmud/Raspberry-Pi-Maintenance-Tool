@@ -23,8 +23,7 @@ For HELP Type:
 ```
 python3 PI_Maintenance.py --help
 ```
-![Screenshot - Help](Screenshot - Help.png)
-
+![RaspberryPi-Maintenance-Terminal-Tool/Screenshot - Help.png](ScreenshotHelp.png)
 ## Built With -- Module
 
 * [Python](https://www.python.org) - A high-level programming language
