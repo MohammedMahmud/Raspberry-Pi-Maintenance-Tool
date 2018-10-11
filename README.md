@@ -23,7 +23,7 @@ For HELP Type:
 ```
 python3 PI_Maintenance.py --help
 ```
-![Screenshot - Help](help.png)
+![Screenshot - Help](RaspberryPi-Maintenance-Terminal-Tool/Screenshot - Help.png)
 
 ## Built With -- Module
 
