@@ -39,4 +39,4 @@ python3 PI_Maintenance.py --help
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](RaspberryPi-Maintenance-Terminal-Tool/LICENSE) file for details
+This project is licensed under the MIT License - see the [RaspberryPi-Maintenance-Terminal-Tool/LICENSE](LICENSE) file for details
